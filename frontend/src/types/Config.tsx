@@ -3,3 +3,4 @@ export interface Config {
         Authorization: string;
     };
 }
+
